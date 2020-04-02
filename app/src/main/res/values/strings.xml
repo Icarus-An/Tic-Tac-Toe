@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="start">Start a New Game</string>
+    <string name="Android_turn">It\'s Android\'s turn.</string>
+    <string name="tie">It\'s a tie!</string>
+    <string name="win">You won!</string>
+    <string name="lose">Android won!</string>
+    <string name="player_turn">It\'s your turn (X).</string>
+    <string name="player_first">You go first.</string>
+    <string name="exit">Exit</string>
+    <string name="menu_settings">Difficulty Setting</string>
+    <string name="statistics">Statistics</string>
+    <string name="difficulty">Difficulty:</string>
+    <string name="hard">Hard</string>
+    <string name="medium">Medium</string>
+    <string name="easy">Easy</string>
+</resources>

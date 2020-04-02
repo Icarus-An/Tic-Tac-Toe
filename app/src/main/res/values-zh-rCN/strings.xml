@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">井字游戏</string>
+    <string name="start">开始新游戏</string>
+    <string name="Android_turn">安卓的回合</string>
+    <string name="tie">平局！</string>
+    <string name="lose">安卓获胜！</string>
+    <string name="player_turn">你的回合 (X).</string>
+    <string name="player_first">由你开始</string>
+    <string name="win">你赢了！</string>
+    <string name="exit">退出</string>
+    <string name="menu_settings">难度设定</string>
+    <string name="statistics">统计</string>
+    <string name="hard">困难</string>
+    <string name="medium">中等</string>
+    <string name="easy">简单</string>
+    <string name="difficulty">难度：</string>
+</resources>
